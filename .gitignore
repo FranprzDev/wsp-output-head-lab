@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+artifacts/
+.env
+*.npy
+*.npz
+*.safetensors
+*.mp4
+*.jpg

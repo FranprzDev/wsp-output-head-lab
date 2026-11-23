@@ -1,0 +1,12 @@
+{
+  "status": "historical rounded report; not rerun by this package",
+  "test_clips": 60,
+  "pairs_gap_ge_1": 601,
+  "pair_accuracy": {
+    "base": 0.201,
+    "luminance": 0.752,
+    "patched": 0.91
+  },
+  "test_evaluations_during_development": 2,
+  "original_full_artifacts_available_in_package": false
+}
