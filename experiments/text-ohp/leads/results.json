@@ -1,0 +1,46 @@
+{
+ "base_auc_test": 0.5493968023255813,
+ "base_auc_valid": 0.568589453738992,
+ "OHP_N60": {
+  "test_auc_mean": 0.5504222383720931,
+  "test_auc_min": 0.5377761627906977,
+  "test_auc_max": 0.5586337209302326,
+  "test_acc_mean": 0.5408,
+  "ridge_only_auc": 0.525783430232558,
+  "reps": 10
+ },
+ "OHP_N100": {
+  "test_auc_mean": 0.5490305232558139,
+  "test_auc_min": 0.5332703488372093,
+  "test_auc_max": 0.5689316860465117,
+  "test_acc_mean": 0.5369333333333333,
+  "ridge_only_auc": 0.518484738372093,
+  "reps": 10
+ },
+ "OHP_N200": {
+  "test_auc_mean": 0.550484738372093,
+  "test_auc_min": 0.532594476744186,
+  "test_auc_max": 0.5708575581395349,
+  "test_acc_mean": 0.5393333333333332,
+  "ridge_only_auc": 0.5361933139534882,
+  "reps": 10
+ },
+ "OHP_N1000": {
+  "test_auc_mean": 0.574360465116279,
+  "test_auc_min": 0.574360465116279,
+  "test_auc_max": 0.574360465116279,
+  "test_acc_mean": 0.564,
+  "ridge_only_auc": 0.5739026162790697,
+  "reps": 1
+ },
+ "tabular_GBM_N100_auc": 0.5475072674418604,
+ "tabular_logreg_N100_auc": 0.5080886627906976,
+ "hidden_logreg_N100_auc": 0.4924200581395348,
+ "tabular_GBM_N1000_auc": 0.5590988372093023,
+ "tabular_logreg_N1000_auc": 0.604593023255814,
+ "hidden_logreg_N1000_auc": 0.5507703488372093,
+ "rows_changed": 2,
+ "input_embeddings_unchanged": true,
+ "identity_max_abs_err_8_prompts": 0.18022239208221436,
+ "n_params_changed": 1152
+}
